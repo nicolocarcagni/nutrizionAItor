@@ -67,14 +67,6 @@ Here's a screenshot of the application interface:
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Credits
-Special thanks to MistralAI for providing the AI platform.
-
-## Contact
-For any inquiries or issues, please open an issue on GitHub or contact [your_email@example.com].
 
 ---
 
