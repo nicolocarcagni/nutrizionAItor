@@ -1,5 +1,3 @@
-# nutrizionAItor
-
 # NutrizionAItor
 
 ## Overview
